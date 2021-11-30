@@ -1,3 +1,4 @@
+// Edit this file to change the schedule around
 export default [
 	{ day: 'Monday', todo: ['Dev work'] },
 	{ day: 'Tuesday', todo: ['Dev work'] },
